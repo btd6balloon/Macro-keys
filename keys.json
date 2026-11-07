@@ -1,6 +1,12 @@
 {
     "salt":  "de414a9f41ee11c288636943",
     "keys":  [
-
+                 {
+                     "exp":  0,
+                     "type":  "permanent",
+                     "id":  "k1",
+                     "hash":  "5b2c17c81f3456663da818661326c5f319063982b703ed12cff7243f2cf3e5a0",
+                     "enabled":  true
+                 }
              ]
 }
