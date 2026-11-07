@@ -7,13 +7,6 @@
                      "id":  "k1",
                      "hash":  "580b648ea21dde784d4c1a1d11043968d9e3b7748c4772cc54f4e00c772d5932",
                      "enabled":  true
-                 },
-                 {
-                     "exp":  1794045243,
-                     "type":  "temporary",
-                     "id":  "k2",
-                     "hash":  "5a45e9d608a7dfd54c7fe9f0d127e797942dfba11c981bb8a8af74c1e812e6d9",
-                     "enabled":  true
                  }
              ]
 }
