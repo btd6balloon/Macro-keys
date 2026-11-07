@@ -63,13 +63,6 @@
                      "id":  "k9",
                      "hash":  "e259607a7f107795ade41d94538104b6c891d124a386b0729d1ba262b5597ea0",
                      "enabled":  true
-                 },
-                 {
-                     "exp":  1794629782,
-                     "type":  "temporary",
-                     "id":  "k11",
-                     "hash":  "ceea9696b6e6514f7cf932a0284276ef3153c9ffc8b34606f4b4836f3aa158ee",
-                     "enabled":  true
                  }
              ]
 }
