@@ -69,7 +69,7 @@
                      "type":  "temporary",
                      "id":  "k10",
                      "hash":  "49601974654e1d5c8e122ffa679432a5118f60faa5f308dad0d3a7cc12b91f13",
-                     "enabled":  true
+                     "enabled":  false
                  },
                  {
                      "exp":  1794629782,
