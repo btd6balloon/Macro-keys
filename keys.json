@@ -7,6 +7,13 @@
                      "id":  "k1",
                      "hash":  "9afefbcf784a279b1b0af9920d408eb481a77f6daf7af68debd9ad1416d93987",
                      "enabled":  true
+                 },
+                 {
+                     "exp":  0,
+                     "type":  "permanent",
+                     "id":  "k2",
+                     "hash":  "85c8a35d95aefc98a0952f0add607ef034486c4b30774f2f12a8d1bdb1576537",
+                     "enabled":  true
                  }
              ]
 }
