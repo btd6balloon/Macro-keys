@@ -13,7 +13,7 @@
                      "type":  "permanent",
                      "id":  "k2",
                      "hash":  "85c8a35d95aefc98a0952f0add607ef034486c4b30774f2f12a8d1bdb1576537",
-                     "enabled":  false
+                     "enabled":  true
                  },
                  {
                      "exp":  1794629753,
